@@ -28,7 +28,7 @@
 
 1) ¿Cuál es la diferencia entre **clase** y **objeto**? Explíquelo sin utilizar definiciones circulares.
 
-  > Una clase es un concepto que modela una entidad, define cuales son sus propiedades y comportamientos (tiempo de compilación). Un objeto en cambio, es una instancia de una clase (existe en tiempo de ejecución del programa).
+  > Una clase es un concepto que modela una entidad, define cuales son sus propiedades y comportamientos. Un objeto en cambio, es una instancia de una clase (existente en tiempo de ejecución del programa), que cumple con todo lo definido en ella.
 
 2) Defina el concepto de **herencia**. Proporcione un ejemplo y un contraejemplo.
 
